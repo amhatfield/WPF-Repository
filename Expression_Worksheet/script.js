@@ -9,5 +9,12 @@
 
 //Dog Years
 
-var SparksAge;
-SparksAge = 14 * 7;
+// figure out what the dog age is
+
+var sparksAge = 14;
+const dogYears = 7;
+
+// time the dog's age in human years by dog years
+
+
+
