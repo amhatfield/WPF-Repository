@@ -12,15 +12,22 @@ console.log(sparky)
 
 // Slice of Pie part 1
 // figure out how many slice each person gets
-var pizzaSlices = 8
-var people = 20
-var ordered = 10
+var pizzaSlices = 8;
+var people = 12;
+var ordered = 10;
 // then you will times the number of pizza slices by the number of pizza ordered
-var slices = pizzaSlices * ordered
+var slices = pizzaSlices * ordered;
 // then you will divide the number of slices into the number of people.
-var preSlice = slices / people
+var preSlice = slices / people;
 //print out the result
 console.log(preSlice)
+
+// Slice of Pie part 2
+var hostDog = 6
+console.log(hostDog)
+
+//
+
 
 
 
