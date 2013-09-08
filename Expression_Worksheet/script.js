@@ -10,11 +10,13 @@
 //Dog Years
 
 // figure out what the dog age is
-
-var sparksAge = 14;
+var humanYears = 14;
 const dogYears = 7;
-
 // time the dog's age in human years by dog years
+var sparkysAge = humanYears * dogYears
+// print Sparky's age
+console.log(sparkysAge);
+
 
 
 
