@@ -37,6 +37,9 @@ var average = total / numberOfWeeks
 // print the results
 console.log(average)
 
+// Discounts
+
+
 
 
 
