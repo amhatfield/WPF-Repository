@@ -16,8 +16,11 @@ var pizzaSlices = 8
 var people = 20
 var ordered = 10
 // then you will times the number of pizza slices by the number of pizza ordered
-var slices = pizzaSlices * people
+var slices = pizzaSlices * ordered
 // then you will divide the number of slices into the number of people.
+var preSlice = slices / people
+//print out the result
+console.log(preSlice)
 
 
 
