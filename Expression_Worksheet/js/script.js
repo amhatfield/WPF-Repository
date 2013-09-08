@@ -38,6 +38,11 @@ var average = total / numberOfWeeks
 console.log(average)
 
 // Discounts
+// Figure out what it discounted price is with and without sales tax
+var originalPrice = 199.99;
+var discount = 40;
+var "playstation game system";
+var salesTax =
 
 
 
