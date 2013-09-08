@@ -11,6 +11,11 @@ var sparky = human * dog;
 console.log(sparky)
 
 // Slice of Pie part 1
+// figure out how many slice each person gets
+var pizzaSlices = 8
+var people = 20
+var ordered = 10
+
 
 
 
