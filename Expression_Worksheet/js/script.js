@@ -15,6 +15,9 @@ console.log(sparky)
 var pizzaSlices = 8
 var people = 20
 var ordered = 10
+// then you will times the number of pizza slices by the number of pizza ordered
+var slices = pizzaSlices * people
+// then you will divide the number of slices into the number of people.
 
 
 
