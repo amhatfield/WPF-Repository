@@ -42,7 +42,14 @@ console.log(average)
 var originalPrice = 199.99;
 var discount = 40;
 var "playstation game system";
-var salesTax =
+var salesTax = 8.25;
+// price of the item with tax
+var afterDiscount = originalPrice * discount;
+var withTax = salesTax * afterDiscount;
+console.log(withTax);
+//
+
+
 
 
 
