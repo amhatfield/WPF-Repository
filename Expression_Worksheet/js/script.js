@@ -20,13 +20,20 @@ var slices = pizzaSlices * ordered;
 // then you will divide the number of slices into the number of people.
 var preSlice = slices / people;
 //print out the result
-console.log(preSlice)
+console.log(preSlice);
 
 // Slice of Pie part 2
-var hostDog = 6
-console.log(hostDog)
+var hostDog = 6;
+console.log(hostDog);
 
-//
+// Average Shopping Bill
+// I am going to list the totals of 5 weeks of shopping bills
+var fiveWeeks =[70.00,52.86,100.05,65.50,200.89];
+// I am going to add them
+var total = fiveWeeks[0] + fiveWeeks[1] + fiveWeeks[2] + fiveWeeks[3] + fiveWeeks[4];
+// now I will get the
+
+
 
 
 
