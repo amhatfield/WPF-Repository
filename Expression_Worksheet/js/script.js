@@ -31,7 +31,11 @@ console.log(hostDog);
 var fiveWeeks =[70.00,52.86,100.05,65.50,200.89];
 // I am going to add them
 var total = fiveWeeks[0] + fiveWeeks[1] + fiveWeeks[2] + fiveWeeks[3] + fiveWeeks[4];
-// now I will get the
+// now I will get the average we will divide the total to the number of weeks.
+var numberOfWeeks = 5
+var average = total / numberOfWeeks
+// print the results
+console.log(average)
 
 
 
