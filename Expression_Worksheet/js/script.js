@@ -39,10 +39,10 @@ console.log(average)
 
 // Discounts
 // Figure out what it discounted price is with and without sales tax
-var originalPrice = 199.99;
+var originalPrice = 199;
 var discount = 40;
 // playstion game system;
-var salesTax = 8.25;
+var salesTax = 9;
 // price of the item with tax
 var afterDiscount = originalPrice * discount;
 var withTax = salesTax * afterDiscount;
