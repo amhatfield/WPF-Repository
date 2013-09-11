@@ -9,9 +9,9 @@ var weeks= prompt("Number of weeks you provide snacks");
 // now we will multiply the number of weeks by the dollar pre kid.
 var total = weeks * dollarsPerKid;
 // now we divide the total to how many kids are in the class.
-var result = total / userInput
+var result = total / userInput;
 // now we print to the console
-console.log("How much I have to spend is" + result "dollars")
+console.log ("How much I have on snacks"  + result +  "dollars")
 
 
 
