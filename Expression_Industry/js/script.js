@@ -9,3 +9,4 @@ var numberOfWeeks = prompt("What will be the number of payments you will make.")
 var overallTotal = price * downPayment;
 // Then we will take the overall total divide that to the number of weeks
 var  howManyPayments = numberofWeeks / overallTotal;
+console.log("This is how many payment I will have to make" + howManyPayments);
