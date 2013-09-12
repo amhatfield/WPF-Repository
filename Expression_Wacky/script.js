@@ -3,5 +3,10 @@
 // I am going to calculate how many hours it would take to watch eight seasons of Supernatural.
 var seasons = prompt("Enter the current amount of seasons of Supernatural.");
 var length = prompt ("Enter the length of the show");
-var Total = prompt("Enter the current total of  ")
+var total = prompt("Enter the current total of episodes");
+// we are going to divide the current number of seasons to length of the show.
+var overallTotal = seasons / length;
+// we are going to divide to overall total to the number of episodes.
+var hours = overallTotal / total;
+
 
