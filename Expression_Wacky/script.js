@@ -8,5 +8,5 @@ var total = prompt("Enter the current total of episodes");
 var overallTotal = seasons / length;
 // we are going to divide to overall total to the number of episodes.
 var hours = overallTotal / total;
-
+console.log("This is the number of " + hours + "hours that it would take me to watch all the season of Supernatural")
 
