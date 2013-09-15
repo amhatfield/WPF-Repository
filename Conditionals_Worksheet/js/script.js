@@ -2,4 +2,4 @@
 
 // Group #1: Celsuis to Fahernheit Converter
 
- var
+ var  degreeF =
