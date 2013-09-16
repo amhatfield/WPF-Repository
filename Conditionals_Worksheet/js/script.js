@@ -20,7 +20,8 @@ if(gasMileage / gasCapacity < gauge){
 
 // Group #2 Check the Login
 
-var userName = prompt("Enter your username");
+var userName = prompt("Enter your Username");
+var passWord = prompt("Enter your Password");
 
 
 
