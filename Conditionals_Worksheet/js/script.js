@@ -31,8 +31,17 @@ if(userName == correctUser){
     console.log("Welcome," + userName + "!")
 
 }
+  // User name not correct.
+if(userName != correctUser){
+    console.log("User not found, Try again.")
 
-if(){
+}
+  // Password not correct.
+if(passWord != correctPass){
+    console.log("Password does not match our records.")
 
 }
 
+// Group #3: Movie ticket Price.
+
+var movieTime =
