@@ -2,9 +2,9 @@
 
 // Group #1: Last Chance of Gas!
 
-var  gasMileage = 10 "mpg"
-var  gauge = 25  "percent"
-var  gasCapacity = 100 "gallons"
+var  gasMileage = 10
+var  gauge = 25
+var  gasCapacity = 100
 
 // Don't need to get gas.
 if(gasMileage > gauge / gasCapacity){
@@ -27,7 +27,12 @@ var correctPass = "aislynn6960";
 
 // login info is correct!
 
-if()
+if(userName == correctUser){
+    console.log("Welcome," + userName + "!")
 
+}
 
+if(){
+
+}
 
