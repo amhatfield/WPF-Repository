@@ -7,5 +7,11 @@ var  gauge = 50("percent")
 var  gasCapacity = 100("gallons")
 
 // Don't need to get gas.
+if(gasMileage > gauge / gasCapacity){
+    console.log("Yes, you can make it without stopping for gas!")
+
+}
+// you need gas.
+
 if(){}
 
