@@ -44,28 +44,24 @@ if(passWord != correctPass){
 
 // Group #3: Movie ticket Price.
 
-var movieTime = 4
-var ageOfCustomer = 35
+var movieTime = 6
+var ageOfCustomer = 24
 
-// Your ticket price is $12.00
+// Your ticket price is $12.00 or $7.00
 
 if(movieTime < 3 && movieTime > 5){
     console.log("The ticket is $12.00")
 
 
+}else{
+    console.log("The ticket is $7.00")
+
 }
+
 if(ageOfCustomer > 10 && ageOfCustomer < 55){
     console.log("The ticket is $12.00")
 
-}
-
-// Your ticket price is $7.00
-
-if(movieTime >= 3 && movieTime == 5){
-    console.log("The ticket is $7.00")
-}
-
-if(ageOfCustomer <= 10 && ageOfCustomer >= 55){
+}else{
     console.log("The ticket is $7.00")
 
 }
