@@ -54,7 +54,18 @@ if(movieTime < 3 && movieTime > 5){
 
 
 }
-if(ageOfCustomer < 55 && ageOfCustomer > 10){
+if(ageOfCustomer > 10 && ageOfCustomer < 55){
     console.log("The ticket is $12.00")
+
+}
+
+// Your ticket price is $7.00
+
+if(movieTime >= 3 && movieTime == 5){
+    console.log("The ticket is $7.00")
+}
+
+if(ageOfCustomer <= 10 && ageOfCustomer >= 55){
+    console.log("The ticket is $7.00")
 
 }
