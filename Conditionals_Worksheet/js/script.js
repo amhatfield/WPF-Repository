@@ -44,4 +44,11 @@ if(passWord != correctPass){
 
 // Group #3: Movie ticket Price.
 
-var movieTime =
+var movieTime = 4
+var ageOfCustomer = 35
+
+// Your ticket price is $12.00
+
+if(movieTime ){
+
+}
