@@ -7,7 +7,7 @@ var outsideTemp = 90
 var perfectParkTemp = 70
 
 // wear shorts and tennis shoes
-if(outsideTemp => perfectParkTemp){
+if(outsideTemp >= perfectParkTemp){
      console.log("I would wear shorts and tennis shoes ")
 
 }else{
