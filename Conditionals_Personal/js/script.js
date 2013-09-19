@@ -13,3 +13,9 @@ if(numberOfGuests > minGuests ){
     console.log("You have to pay $30.00 extra per guest")
 
 }
+
+// Have to cancel the party and have it at the park or my house.
+
+if(numberOfGuests < minGuests){
+    console.log("Have to cancel the party at Build a Bear and have it at my house or the park")
+}
