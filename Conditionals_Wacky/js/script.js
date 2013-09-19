@@ -12,5 +12,5 @@ if(outsideTemp => perfectParkTemp){
 
 }else{
     // Your Crazy to want to outside in Texas with the heat index of 100
-    con
+    console.log("Your crazy to want to go outside in Texas with the heat index of 100")
 }
