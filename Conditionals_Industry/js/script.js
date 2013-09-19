@@ -4,10 +4,12 @@
 // We are going to see how many baby cribs based on the demand.
 
 var cribsStocked = 13
-var cribsInDemand = 40
+var inDemand = 40
 
 
 
 // need to order more cribs
 
-if()
+if(cribsStocked <= inDemand){
+      console.log("We need to ")
+}
