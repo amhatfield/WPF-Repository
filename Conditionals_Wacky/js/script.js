@@ -4,4 +4,9 @@
 // If I wanted to go to the park, What should I wear?
 
 var outsideTemp = 90
-var
+var perfectParkTemp = 70
+
+// wear shorts and flip flops
+if(outsideTemp <= perfectParkTemp){
+     console.
+}
