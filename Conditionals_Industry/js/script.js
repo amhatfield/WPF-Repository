@@ -11,5 +11,8 @@ var inDemand = 40
 // need to order more cribs
 
 if(cribsStocked <= inDemand){
-      console.log("We need to ")
+      console.log("We need to order more cribs! ")
+}else{
+    // dont order more
+    console.log("We do not need to order anymore cribs!")
 }
