@@ -6,7 +6,11 @@
 var outsideTemp = 90
 var perfectParkTemp = 70
 
-// wear shorts and flip flops
-if(outsideTemp <= perfectParkTemp){
-     console.
+// wear shorts and tennis shoes
+if(outsideTemp => perfectParkTemp){
+     console.log("I would wear shorts and tennis shoes ")
+
+}else{
+    // Your Crazy to want to outside in Texas with the heat index of 100
+    con
 }
