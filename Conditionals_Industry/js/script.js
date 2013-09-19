@@ -4,4 +4,10 @@
 // We are going to see how many baby cribs based on the demand.
 
 var cribsStocked = 13
-var cir
+var cribsInDemand = 40
+
+
+
+// need to order more cribs
+
+if()
