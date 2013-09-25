@@ -10,4 +10,6 @@ function calcCirc(radius){
 
 
 }
-console.log("The Circumference of the circle is" +  circle)
+console.log("The Circumference of the circle is" +  circle)  // we are going to print the circumference to the console.
+
+
