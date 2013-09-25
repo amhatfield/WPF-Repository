@@ -16,14 +16,13 @@ console.log("The Circumference of the circle is" +  circle)  // we are going to 
 
 // Stung!
 
-var calcStings(50)
+var beeStings = calcStings(50)
 function calcStings(animalWeight){
-    var animalWeight          // this is the animal's weight in pounds
-    var stings = 8.666666667   // this the amount of bee stings it would take per pound
-    return animalWeight * stings
-
+     var stings = 8.666666667   // this the amount of bee stings it would take per pound
+     var totalStings = animalWeight  * stings  // To get the total number of bee stings you will have to multiply
+     return totalStings
 
 }
 
-
+console.log("It takes" +  beeStings  + "bee stings to kill a animal.")
 
