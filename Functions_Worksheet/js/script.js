@@ -15,8 +15,9 @@ console.log("The Circumference of the circle is" +  circle)  // we are going to 
 
 
 // Stung!
-
-function calcStrings(){
+   var beeStings = calcStrings(8.666666667)
+function calcStrings(stings){
+    var animalWeight = 50
 
 }
 
