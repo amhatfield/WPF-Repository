@@ -3,6 +3,8 @@
 
 // We are going to see if we can use a coupon on a sale item.
 
-var salePrice =
+var salePrice =  5
+
+// if the sale price it less then $3.00
 
 
