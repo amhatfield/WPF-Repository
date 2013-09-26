@@ -5,6 +5,7 @@
 
 var salePrice =  5
 
-// if the sale price it less then $3.00
+// if the sale price it less then $3.00 then you cant use the 15% off coupon.
+
 
 
