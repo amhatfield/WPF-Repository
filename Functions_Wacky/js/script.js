@@ -15,7 +15,7 @@ function superCon(hotelRoom, conPass, activities) {
 var travel = function(drivingMiles, gas ){   // this will be how much it cost for the travel
     var drivingMiles
     var gas
-
+    return travelCost = drivingMiles * gas
 }
 
 travel(600, 3.98);
