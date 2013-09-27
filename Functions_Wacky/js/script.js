@@ -11,3 +11,9 @@ function superCon(hotelRoom, conPass, activities) {
 }
 
  console.log("This is how much"  +  overallCost  + "I need to save.")
+
+var functionName = function(){
+
+}
+
+functionName();
