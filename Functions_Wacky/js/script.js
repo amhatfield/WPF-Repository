@@ -12,8 +12,10 @@ function superCon(hotelRoom, conPass, activities) {
 
  console.log("This is how much"  +  overallCost  + "I need to save.")
 
-var functionName = function(){
+var travel = function(drivingMiles, gas ){   // this will be how much it cost for the travel
+    var drivingMiles
+    var gas
 
 }
 
-functionName();
+travel(600, 3.98);
