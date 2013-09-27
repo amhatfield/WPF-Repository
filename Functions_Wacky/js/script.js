@@ -19,3 +19,5 @@ var travel = function(drivingMiles, gas ){   // this will be how much it cost fo
 }
 
 travel(600, 3.98);
+
+console.log("This will be how much"  +  travelCost  + "it will cost to drive there.")
