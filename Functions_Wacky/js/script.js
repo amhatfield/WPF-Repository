@@ -7,4 +7,7 @@ function superCon(hotelRoom, conPass, activities) {
     var hotelRoom
     var conPass
     var activities
+    return overallCost = hotelRoom + conPass + activities   // this will be my overall cost
 }
+
+ console.log("This is how much"  +  overallCost  + "I need to save.")
